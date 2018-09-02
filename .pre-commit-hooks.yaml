@@ -2,6 +2,6 @@
     name: autopep8
     entry: autopep8
     language: python
-    files: \.py$
-    args: [-i]
-
+    'types': [python]
+    args: ["-i"]
+    additional_dependencies: []
