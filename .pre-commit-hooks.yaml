@@ -4,4 +4,5 @@
     language: python
     'types': [python]
     args: ["-i"]
+    require_serial: false
     additional_dependencies: []
