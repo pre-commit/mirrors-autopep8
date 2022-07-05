@@ -13,6 +13,7 @@ For autopep8: see https://github.com/hhatto/autopep8
 Add this to your `.pre-commit-config.yaml`:
 
 ```yaml
+repos:
 -   repo: https://github.com/pre-commit/mirrors-autopep8
     rev: ''  # Use the sha / tag you want to point at
     hooks:
