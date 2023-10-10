@@ -1,3 +1,9 @@
+# DEPRECATED
+
+use https://github.com/hhatto/autopep8 directly  now instead \o/
+
+___
+
 autopep8 mirror
 ===============
 
